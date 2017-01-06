@@ -1,6 +1,6 @@
 1. Good Books
 ---------------------
-
+_Please note that these are only links to buy these books. The Internet is big, go there and find some for free_
 * [Libgdx Cross-platform Game Developement](https://www.packtpub.com/game-development/libgdx-cross-platform-game-development-cookbook) | 2014
 * [Learning LibGDX Game Development, 2nd Edition](https://www.packtpub.com/game-development/learning-libgdx-game-development-second-edition) | 2015
 * [LibGDX Cross-Platform Development Blueprints](https://www.packtpub.com/game-development/libgdx-cross-platform-development-blueprints) | 2015
