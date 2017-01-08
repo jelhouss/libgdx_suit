@@ -59,7 +59,7 @@ _Please credit the owners when using anything made by them._
 * [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
 * [Free sounds on SOUND JAY](https://www.soundjay.com/)
 
-5. Hackathons
+6. Hackathons
 ---------------------
 
 * [One Game A Month](http://www.onegameamonth.com/)
