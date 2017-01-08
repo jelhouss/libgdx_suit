@@ -12,7 +12,7 @@ _Please note that these are only links to buy these books. The Internet is big, 
 2. Tutorials
 ---------------------
 
-#### Youtube channles
+#### Youtube channels
 * [ForeignGuyMike (Make games in native Java and LibGDX)](https://www.youtube.com/user/ForeignGuyMike)
 * [Conner Anderson (Android developer and small time game-making enthusiast)](https://www.youtube.com/user/samich15)
 * [Robin Stumm (Know Java pretty well, with special focus on libGDX)](https://www.youtube.com/user/dermetfan/)
