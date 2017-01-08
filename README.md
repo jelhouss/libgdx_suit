@@ -15,7 +15,7 @@ _Please note that these are only links to buy these books. The Internet is big, 
 #### Youtube channels
 * [ForeignGuyMike (Make games in native Java and LibGDX)](https://www.youtube.com/user/ForeignGuyMike)
 * [Conner Anderson (Android developer and small time game-making enthusiast)](https://www.youtube.com/user/samich15)
-* [Robin Stumm (Know Java pretty well, with special focus on libGDX)](https://www.youtube.com/user/dermetfan/)
+* [Robin Stumm (Knows Java pretty well, with special focus on libGDX)](https://www.youtube.com/user/dermetfan/)
 
 #### Random playlists on Youtube (Non-focus LibGDX channels)
 * [Gamefromscratch (The famous blog has a channel on Youtube)](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
@@ -24,7 +24,7 @@ _Please note that these are only links to buy these books. The Internet is big, 
 * [Code School (Multiplayer implementation using Nodejs & LibGDX)](https://www.youtube.com/playlist?list=PLZm85UZQLd2Qh6r7jxBKPuB4hl-Xw5uZT)
 
 #### Blogs
-* [Zombie Bird on Kilobolt (Flappy Bird beautiful remake that pushed a lot to make their own 2d games)](http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html)
+* [Zombie Bird on Kilobolt (Flappy Bird beautiful remake that pushed a lot of people to make their own 2d games)](http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html)
 * [Martian Run by William Mora (Software Developer)](http://williammora.com/martianrun-opensource-libgdx-game)
 
 
@@ -40,11 +40,16 @@ _Please note that these are only links to buy these books. The Internet is big, 
 4. Tools
 ---------------------
 
+#### LibGDX ecosystem
 * [Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) A command line tool for packing images | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-texturepacker.jar)
 * [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor) A powerful tool for making 2D particle effects | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-2D-particles.jar)
 * [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero) A bitmap font packing tool | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-hiero.jar)
+
+#### More tools
 * [Box2D](http://box2d.org/) A 2D Physics Engine for Games
 * [Tiled Map Editor](http://www.mapeditor.org/) A flexible tile map editor 
+* [Overlap2D](http://overlap2d.com/) An open source game UI, level and content editor
+* [Spine](http://esotericsoftware.com/) Animation software for video games
 
 5. Assets
 ---------------------
