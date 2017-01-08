@@ -37,11 +37,33 @@ _Please note that these are only links to buy these books. The Internet is big, 
 * [LibGDX on Game From Scratch blog](http://www.gamefromscratch.com/?tag=/LibGDX)
 
 
-4. Assets
+4. Tools
 ---------------------
 
-#### Graphics
-* [Free graphics by Kenney](http://www.kenney.nl/)
+* [Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) A command line tool for packing images | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-texturepacker.jar)
+* [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor) A powerful tool for making 2D particle effects | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-2D-particles.jar)
+* [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero) A bitmap font packing tool | [Download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-hiero.jar)
+* [Box2D](http://box2d.org/) A 2D Physics Engine for Games
+* [Tiled Map Editor](http://www.mapeditor.org/) A flexible tile map editor 
 
+5. Assets
+---------------------
+_Please credit the owners when using anything made by them._
+* [OpenGameArt](http://opengameart.org/)
+* [Free assets by Kenney](http://www.kenney.nl/)
+* [Free graphics by Reiner “Tiles” Prokein](http://www.reinerstilesets.de/)
+* [Free graphics/tilesset/sprites](http://untamed.wild-refuge.net/rmxpresources.php?characters)
+* [Free sprites sheets, animations, tiles set](http://www.dumbmanex.com/bynd_freestuff.html)
+* [Free sounds on PacDV](http://www.pacdv.com/sounds/index.html)
+* [Free sounds on freesounds.org](https://www.freesound.org/)
+* [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
+* [Free sounds on SOUND JAY](https://www.soundjay.com/)
+
+5. Hackathons
+---------------------
+
+* [One Game A Month](http://www.onegameamonth.com/)
+* [Global Game Jam](http://globalgamejam.org/)
+* [Ludum Dare](http://ludumdare.com/compo/)
 
 
