@@ -1,6 +1,5 @@
 <p align="center"><img src="https://github.com/jelhouss/libgdx_suit/blob/master/libgdx-suit.png"></p>
 
-<p align="center">A pack full of stuff!</p>
 
 
 #### What the f**k is this?
