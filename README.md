@@ -1,6 +1,6 @@
-<p align="center">><img width="125" src="https://github.com/jelhouss/libgdx_suit/libgdx-suit.png"></p>
+<p align="center"><img width="125" src="https://github.com/jelhouss/libgdx_suit/libgdx-suit.png"></p>
 
-<h1 align="center">LibGDX Suit</h1>
+<p align="center">A pack full of stuff!</p>
 
 
 #### What the f**k is this?
@@ -8,8 +8,6 @@
 
 When I was learning LibGDX Game Development, I was super excited, so much excited and I was surfing *everywhere* I can be on the internet and I discovered so much stuff! from e-books, to video tutorials to blog series to even playing with games that actually built using this lovely library. It was a fantastic experience, and I am now trying to grab *as much as I can remember* all the resources I've playing with. I hope this would be really really useful for those who want to code games for fun!
 
-#### Table of Contents
-- - - - - - - - - - - - - -
 
 ###### 1.  Good Books
 * [Libgdx Cross-platform Game Development](https://www.packtpub.com/game-development/libgdx-cross-platform-game-development-cookbook), David Saltares Márquez and Alberto Cejas Sánchez. Packtpub 2014
@@ -38,7 +36,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [LibGDX on Game From Scratch blog](http://www.gamefromscratch.com/?tag=/LibGDX)
 
 ###### 4.  Tools
-> *The first three tools are the **ecosystem** of a standard LibGDX development environment*
+###### *The first three tools are the **ecosystem** of a standard LibGDX development environment*
 * [Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) — A command line tool for packing images, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-texturepacker.jar)
 * [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor) — Powerful tool for making 2D particle effects, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-2D-particles.jar)
 * [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero) — Bitmap font packing tool, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-hiero.jar)
@@ -48,16 +46,16 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Spine](http://esotericsoftware.com/) — Animation software for video games
 
 ###### 5.  Assets
-*Please credit the owners when using anything made by them.*
+###### *Please credit the owners when using anything made by them.*
 * [OpenGameArt](http://opengameart.org/)
 * [Free assets](http://www.kenney.nl/), By Kenney
 * [Free graphics](http://www.reinerstilesets.de/), By Reiner “Tiles” Prokein
-* [Free graphics/tilesset/sprites](http://untamed.wild-refuge.net/rmxpresources.php?characters)
-* [Free sprites sheets, animations, tiles set](http://www.dumbmanex.com/bynd_freestuff.html)
-* [Free sounds on PacDV](http://www.pacdv.com/sounds/index.html)
+* [Free RPG resources](http://untamed.wild-refuge.net/rpgxp.php), By Sithjester
+* [Free stuff](http://www.dumbmanex.com/bynd_freestuff.html), By Backyyard Ninja
+* [Free Sound Effects on PacDV](http://www.pacdv.com/sounds/index.html), 
 * [Free sounds on freesounds.org](https://www.freesound.org/)
 * [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
-* [Free sounds on SOUND JAY](https://www.soundjay.com/)
+* [Free sounds on Sound Jay](https://www.soundjay.com/)
 
 ###### 6.  Hackathons
 * [One Game A Month](http://www.onegameamonth.com/)
@@ -65,7 +63,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Ludum Dare](http://ludumdare.com/compo/)
 
 ###### 7.  Games
-*Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it, and also there are a lot of examples of you just search on Youtube. In this part, I am going to list the games that made me impressed honestly.*
+###### *Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it, and also there are a lot of examples of you just search on Youtube. In this part, I am going to list the games that made me impressed honestly.*
 * Crash on Phobos, [Trailer](https://www.youtube.com/watch?v=mn2c_EmVwDM), [download](https://www.dropbox.com/s/niv9do39pc1) — 2D Sidescroller with pixel graphics. Too bad the download link doesn't work anymore. I swear this was awesome! I hope I can find it somewhere else to download it again.
 * Heroes of Umbra, [Trailer](https://www.youtube.com/watch?v=eLFWaciFHSY), [download](http://heroesofumbra.com/download) — 2D RPG game with pixel graphics. RPG fans you're gonna love this!
 
