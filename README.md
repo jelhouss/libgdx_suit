@@ -1,4 +1,4 @@
-<p align="center"><img width="125" src="https://github.com/jelhouss/libgdx_suit/libgdx-suit.png"></p>
+<p align="center"><img src="https://github.com/jelhouss/libgdx_suit/blob/master/libgdx-suit.png"></p>
 
 <p align="center">A pack full of stuff!</p>
 
@@ -10,6 +10,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 
 
 ###### 1.  Good Books
+
 * [Libgdx Cross-platform Game Development](https://www.packtpub.com/game-development/libgdx-cross-platform-game-development-cookbook), David Saltares Márquez and Alberto Cejas Sánchez. Packtpub 2014
 * [Learning LibGDX Game Development, 2nd Edition](https://www.packtpub.com/game-development/learning-libgdx-game-development-second-edition), Suryakumar Balakrishnan Nair and Andreas Oehlke. Packtpub 2015
 * [LibGDX Cross-Platform Development Blueprints](https://www.packtpub.com/game-development/libgdx-cross-platform-development-blueprints), Indraneel Potnis. Packtpub 2015
@@ -18,7 +19,8 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Building a 3D Game with LibGDX](https://www.packtpub.com/game-development/building-3d-game-libgdx), Sebastian Di Giuseppe. Packtpub 2016
 
 ###### 2.  Tutorials
-* [ForeignGuyMike](https://www.youtube.com/user/ForeignGuyMike) — Someone who semmes to make games in native Java and LibGDX, and he is pretty good. Youtube.
+
+* [ForeignGuyMike](https://www.youtube.com/user/ForeignGuyMike) — Someone making games in native Java and LibGDX, and he is pretty good at it. Youtube.
 * [Conner Anderson](https://www.youtube.com/user/samich15) — Android developer and small time game-making enthusiast. Youtube.
 * [Robin Stumm](https://www.youtube.com/user/dermetfan/) — Knows Java pretty well, with special focus on libGDX. Youtube.
 * [Gamefromscratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy) — The famous Game Development blog has also a channel. Youtube
@@ -30,13 +32,14 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [William Mora](http://williammora.com/martianrun-opensource-libgdx-game) — Software Developer who wrote blog series on building a game called Martian Run. Blog
 
 ###### 3.  Blogs
+
 * [LibGDX official website](https://libgdx.badlogicgames.com/)
 * [Mario Zechner blog](http://www.badlogicgames.com/wordpress/), The creator of LibGDX
 * [Olivier Martin blog](http://gameover.co.in/tag/libgdx/), Indie Game Developer hobbyist
 * [LibGDX on Game From Scratch blog](http://www.gamefromscratch.com/?tag=/LibGDX)
 
-###### 4.  Tools
-###### *The first three tools are the **ecosystem** of a standard LibGDX development environment*
+###### 4.  Tools (*The first three tools are the **ecosystem** of a standard LibGDX development environment*)
+
 * [Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) — A command line tool for packing images, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-texturepacker.jar)
 * [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor) — Powerful tool for making 2D particle effects, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-2D-particles.jar)
 * [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero) — Bitmap font packing tool, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-hiero.jar)
@@ -45,25 +48,26 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Overlap2D](http://overlap2d.com/) — Open source game UI, level and content editor
 * [Spine](http://esotericsoftware.com/) — Animation software for video games
 
-###### 5.  Assets
-###### *Please credit the owners when using anything made by them.*
+###### 5.  Assets (*Please credit the owners when using anything made by them.*)
+
 * [OpenGameArt](http://opengameart.org/)
 * [Free assets](http://www.kenney.nl/), By Kenney
 * [Free graphics](http://www.reinerstilesets.de/), By Reiner “Tiles” Prokein
 * [Free RPG resources](http://untamed.wild-refuge.net/rpgxp.php), By Sithjester
 * [Free stuff](http://www.dumbmanex.com/bynd_freestuff.html), By Backyyard Ninja
-* [Free Sound Effects on PacDV](http://www.pacdv.com/sounds/index.html), 
+* [Free Sound Effects on PacDV](http://www.pacdv.com/sounds/index.html)
 * [Free sounds on freesounds.org](https://www.freesound.org/)
 * [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
 * [Free sounds on Sound Jay](https://www.soundjay.com/)
 
 ###### 6.  Hackathons
+
 * [One Game A Month](http://www.onegameamonth.com/)
 * [Global Game Jam](http://globalgamejam.org/)
 * [Ludum Dare](http://ludumdare.com/compo/)
 
-###### 7.  Games
-###### *Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it, and also there are a lot of examples of you just search on Youtube. In this part, I am going to list the games that made me impressed honestly.*
+###### 7.  Games (*Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it, and also there are a lot of examples of you just search on Youtube. In this part, I am going to list the games that made me impressed honestly.*)
+
 * Crash on Phobos, [Trailer](https://www.youtube.com/watch?v=mn2c_EmVwDM), [download](https://www.dropbox.com/s/niv9do39pc1) — 2D Sidescroller with pixel graphics. Too bad the download link doesn't work anymore. I swear this was awesome! I hope I can find it somewhere else to download it again.
 * Heroes of Umbra, [Trailer](https://www.youtube.com/watch?v=eLFWaciFHSY), [download](http://heroesofumbra.com/download) — 2D RPG game with pixel graphics. RPG fans you're gonna love this!
 
