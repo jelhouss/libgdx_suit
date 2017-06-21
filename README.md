@@ -65,7 +65,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Global Game Jam](http://globalgamejam.org/)
 * [Ludum Dare](http://ludumdare.com/compo/)
 
-###### 7.  Games (*Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it, and also there are a lot of examples of you just search on Youtube. In this part, I am going to list the games that made me impressed honestly.*)
+###### 7.  Games (*Actually LibGDX has a [gallery](https://libgdx.badlogicgames.com/gallery.html) section of games made using it. Again there are a lot of examples, you just need to search on Youtube. In this part, I am going to list the games that made me impressed honestly.*)
 
 * Crash on Phobos, [Trailer](https://www.youtube.com/watch?v=mn2c_EmVwDM), [download](https://www.dropbox.com/s/niv9do39pc1) — 2D Sidescroller with pixel graphics. Too bad the download link doesn't work anymore. I swear this was awesome! I hope I can find it somewhere else to download it again.
 * Heroes of Umbra, [Trailer](https://www.youtube.com/watch?v=eLFWaciFHSY), [download](http://heroesofumbra.com/download) — 2D RPG game with pixel graphics. RPG fans you're gonna love this!
