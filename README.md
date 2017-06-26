@@ -19,16 +19,16 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 
 ###### 2.  Tutorials
 
-* [ForeignGuyMike](https://www.youtube.com/user/ForeignGuyMike) — Someone making games in native Java and LibGDX, and he is pretty good at it. Youtube.
-* [Conner Anderson](https://www.youtube.com/user/samich15) — Android developer and small time game-making enthusiast. Youtube.
-* [Robin Stumm](https://www.youtube.com/user/dermetfan/) — Knows Java pretty well, with special focus on libGDX. Youtube.
-* [Gamefromscratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy) — The famous Game Development blog has also a channel. Youtube
-* [Indie Game Maker](https://www.youtube.com/channel/UCL_5eiPIzm--ppVBxGcSXQQ) — LibGDX indie developer (programmer), video tutorial maker, etc. Youtube
-* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy) — Building a clone for Flappy Bird. Youtube
-* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt) — Building a clone for Super Mario. Youtube
-* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2Qh6r7jxBKPuB4hl-Xw5uZT) — Multiplayer implementation using Nodejs & LibGDX. Youtube
-* [Kilobolt](http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html) — Flappy Bird beautiful remake that pushed a lot of people to make their own 2d games. Blog
-* [William Mora](http://williammora.com/martianrun-opensource-libgdx-game) — Software Developer who wrote blog series on building a game called Martian Run. Blog
+* [ForeignGuyMike](https://www.youtube.com/user/ForeignGuyMike) — Someone making games in native Java and LibGDX, and he is pretty good at it, **Youtube.**
+* [Conner Anderson](https://www.youtube.com/user/samich15) — Android developer and small time game-making enthusiast, **Youtube.**
+* [Robin Stumm](https://www.youtube.com/user/dermetfan/) — Knows Java pretty well, with special focus on libGDX. **Youtube.**
+* [Gamefromscratch](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy) — The famous Game Development blog has also a channel. **Youtube.**
+* [Indie Game Maker](https://www.youtube.com/channel/UCL_5eiPIzm--ppVBxGcSXQQ) — LibGDX indie developer (programmer), video tutorial maker, etc, **Youtube.**
+* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2TPXpUJfDEdWTSgszionbJy) — Building a clone for Flappy Bird, **Youtube.**
+* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt) — Building a clone for Super Mario, **Youtube.**
+* [Code School](https://www.youtube.com/playlist?list=PLZm85UZQLd2Qh6r7jxBKPuB4hl-Xw5uZT) — Multiplayer implementation using Nodejs & LibGDX, **Youtube.**
+* [Kilobolt](http://www.kilobolt.com/zombie-bird-tutorial-flappy-bird-remake.html) — Flappy Bird beautiful remake that pushed a lot of people to make their own 2d games, **Blog.**
+* [William Mora](http://williammora.com/martianrun-opensource-libgdx-game) — Software Developer who wrote blog series on building a game called Martian Run, **Blog.** (_too bad, this blog tutorial series is no longer available_).
 
 ###### 3.  Blogs
 
@@ -37,11 +37,12 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Olivier Martin blog](http://gameover.co.in/tag/libgdx/), Indie Game Developer hobbyist
 * [LibGDX on Game From Scratch blog](http://www.gamefromscratch.com/?tag=/LibGDX)
 
-###### 4.  Tools (*The first three tools are the **ecosystem** of a standard LibGDX development environment*)
+###### 4.  Tools
 
 * [Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) — A command line tool for packing images, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-texturepacker.jar)
 * [2D Particle Editor](https://github.com/libgdx/libgdx/wiki/2D-Particle-Editor) — Powerful tool for making 2D particle effects, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-2D-particles.jar)
 * [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero) — Bitmap font packing tool, [download](https://libgdx.badlogicgames.com/nightlies/runnables/runnable-hiero.jar)
+* [Scene2D](https://github.com/libgdx/libgdx/wiki/Scene2d) — 2D scene graph for building applications and UIs
 * [Box2D](http://box2d.org/) — 2D Physics Engine for Games
 * [Tiled Map Editor](http://www.mapeditor.org/) — Flexible tile map editor 
 * [Overlap2D](http://overlap2d.com/) — Open source game UI, level and content editor
@@ -58,6 +59,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Free sounds on freesounds.org](https://www.freesound.org/)
 * [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
 * [Free sounds on Sound Jay](https://www.soundjay.com/)
+* [gdx-skins](https://github.com/czyzby/gdx-skins), Free assets (Scene2D skins) given to you by [czyzby](https://github.com/czyzby)
 
 ###### 6.  Hackathons
 
@@ -75,3 +77,4 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 
 Feel free to add more resources to make this a good choice of an awesome pack for your fellow game developers.
 Please before adding a resource, make sure to write it similar to how every other line was written for a specific part (book, youtube tutorial, tutorial series from a blog, an official forum or a blog, a tool, assets, etc.). All PR are welcome! 
+
