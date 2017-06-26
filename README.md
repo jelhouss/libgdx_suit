@@ -47,6 +47,8 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Tiled Map Editor](http://www.mapeditor.org/) — Flexible tile map editor 
 * [Overlap2D](http://overlap2d.com/) — Open source game UI, level and content editor
 * [Spine](http://esotericsoftware.com/) — Animation software for video games
+* [LibGDXPlugin](https://github.com/BlueBoxWare/LibGDXPlugin) — unofficial plugin adds a number of LibGDX related tools and features to IntelliJ and Android Studio. View its README to know more!
+
 
 ###### 5.  Assets (*Please credit the owners when using anything made by them.*)
 
