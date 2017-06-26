@@ -61,7 +61,7 @@ When I was learning LibGDX Game Development, I was super excited, so much excite
 * [Free sounds on freesounds.org](https://www.freesound.org/)
 * [Free sound effects on freeSFX](http://www.freesfx.co.uk/soundeffects/)
 * [Free sounds on Sound Jay](https://www.soundjay.com/)
-* [gdx-skins](https://github.com/czyzby/gdx-skins), Free assets (Scene2D skins) given to you by [czyzby](https://github.com/czyzby)
+* [gdx-skins](https://github.com/czyzby/gdx-skins), Free assets (Scene2D skins)
 
 ###### 6.  Hackathons
 
