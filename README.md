@@ -2,7 +2,7 @@
 
 
 
-#### What the f**k is this?
+#### About LibGDX Suit
 - - - - - - - - - - - - - -
 
 When I was learning LibGDX Game Development, I was super excited, so much excited and I was surfing *everywhere* I can be on the internet and I discovered so much stuff! from e-books, to video tutorials to blog series to even playing with games that actually built using this lovely library. It was a fantastic experience, and I am now trying to grab *as much as I can remember* all the resources I've playing with. I hope this would be really really useful for those who want to code games for fun!
